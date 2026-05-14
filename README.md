@@ -9,7 +9,7 @@ public class MihailovPiotr {
     // ── Personal ─────────────────────────────────────────────────────
     private final String name      = "Mihailov Piotr";
     private final String role      = "Java Developer";
-    private final String education = "Moldova State University";
+    private final String education = "B.Sc. Computer Science — Moldova State University";
     private final String location  = "Moldova";
     private final String email     = "mihailovp04@gmail.com";
 
@@ -74,12 +74,7 @@ List<String> expertise = List.of(
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mihailovp04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="155"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihailovp04&layout=compact&theme=tokyonight&hide_border=true" height="155"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mihailovp04&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mihailovp04&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </div>
 
 ---
