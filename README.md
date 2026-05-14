@@ -9,7 +9,7 @@ public class MihailovPiotr {
     // ── Personal ─────────────────────────────────────────────────────
     private final String name      = "Mihailov Piotr";
     private final String role      = "Java Developer";
-    private final String education = "B.Sc. Computer Science — Moldova State University";
+    private final String education =  "Moldova State University";
     private final String location  = "Moldova";
     private final String email     = "mihailovp04@gmail.com";
 
